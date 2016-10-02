@@ -66,7 +66,7 @@ namespace Treehouse.FitnessFrog.Models
         [Display(Name = "Activity")]
         public int ActivityId { get; set; }
 
-        /// <summary>
+        /// <summary
         /// The activity for the entry.
         /// </summary>
         public Activity Activity { get; set; }
